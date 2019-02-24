@@ -1,0 +1,10 @@
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\b\Fonour.EntityFrameworkCore\Debug\netcoreapp2.2\Fonour.EntityFrameworkCore.deps.json
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\b\Fonour.EntityFrameworkCore\Debug\netcoreapp2.2\Fonour.EntityFrameworkCore.runtimeconfig.json
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\b\Fonour.EntityFrameworkCore\Debug\netcoreapp2.2\Fonour.EntityFrameworkCore.runtimeconfig.dev.json
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\b\Fonour.EntityFrameworkCore\Debug\netcoreapp2.2\Fonour.EntityFrameworkCore.dll
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\i\Fonour.EntityFrameworkCore\Debug\netcoreapp2.2\Fonour.EntityFrameworkCore.csprojAssemblyReference.cache
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\i\Fonour.EntityFrameworkCore\Debug\netcoreapp2.2\Fonour.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\i\Fonour.EntityFrameworkCore\Debug\netcoreapp2.2\Fonour.EntityFrameworkCore.AssemblyInfoInputs.cache
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\i\Fonour.EntityFrameworkCore\Debug\netcoreapp2.2\Fonour.EntityFrameworkCore.AssemblyInfo.cs
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\i\Fonour.EntityFrameworkCore\Debug\netcoreapp2.2\Fonour.EntityFrameworkCore.csproj.CopyComplete
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\i\Fonour.EntityFrameworkCore\Debug\netcoreapp2.2\Fonour.EntityFrameworkCore.dll

@@ -1,0 +1,16 @@
+F:\Test\Web_AdminLTE\Fonour.Application\obj\Debug\netcoreapp2.2\Fonour.Application.csproj.CoreCompileInputs.cache
+F:\Test\Web_AdminLTE\Fonour.Application\obj\Debug\netcoreapp2.2\Fonour.Application.AssemblyInfoInputs.cache
+F:\Test\Web_AdminLTE\Fonour.Application\obj\Debug\netcoreapp2.2\Fonour.Application.AssemblyInfo.cs
+F:\Test\Web_AdminLTE\Fonour.Application\bin\Debug\netcoreapp2.2\Fonour.Application.deps.json
+F:\Test\Web_AdminLTE\Fonour.Application\bin\Debug\netcoreapp2.2\Fonour.Application.dll
+F:\Test\Web_AdminLTE\Fonour.Application\bin\Debug\netcoreapp2.2\Fonour.Application.pdb
+F:\Test\Web_AdminLTE\Fonour.Application\bin\Debug\netcoreapp2.2\Fonour.Domain.dll
+F:\Test\Web_AdminLTE\Fonour.Application\bin\Debug\netcoreapp2.2\Fonour.Utility.dll
+F:\Test\Web_AdminLTE\Fonour.Application\bin\Debug\netcoreapp2.2\Fonour.Domain.pdb
+F:\Test\Web_AdminLTE\Fonour.Application\bin\Debug\netcoreapp2.2\Fonour.Utility.pdb
+F:\Test\Web_AdminLTE\Fonour.Application\obj\Debug\netcoreapp2.2\Fonour.Application.csprojAssemblyReference.cache
+F:\Test\Web_AdminLTE\Fonour.Application\obj\Debug\netcoreapp2.2\Fonour.Application.csproj.CopyComplete
+F:\Test\Web_AdminLTE\Fonour.Application\obj\Debug\netcoreapp2.2\Fonour.Application.dll
+F:\Test\Web_AdminLTE\Fonour.Application\obj\Debug\netcoreapp2.2\Fonour.Application.pdb
+F:\Test\Web_AdminLTE\Fonour.Application\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+F:\Test\Web_AdminLTE\Fonour.Application\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml

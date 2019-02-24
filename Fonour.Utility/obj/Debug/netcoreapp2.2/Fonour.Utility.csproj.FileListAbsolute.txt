@@ -1,0 +1,11 @@
+F:\Test\Web_AdminLTE\Fonour.Utility\obj\Debug\netcoreapp2.2\Fonour.Utility.csproj.CoreCompileInputs.cache
+F:\Test\Web_AdminLTE\Fonour.Utility\obj\Debug\netcoreapp2.2\Fonour.Utility.AssemblyInfoInputs.cache
+F:\Test\Web_AdminLTE\Fonour.Utility\obj\Debug\netcoreapp2.2\Fonour.Utility.AssemblyInfo.cs
+F:\Test\Web_AdminLTE\Fonour.Utility\bin\Debug\netcoreapp2.2\Fonour.Utility.deps.json
+F:\Test\Web_AdminLTE\Fonour.Utility\bin\Debug\netcoreapp2.2\Fonour.Utility.dll
+F:\Test\Web_AdminLTE\Fonour.Utility\bin\Debug\netcoreapp2.2\Fonour.Utility.pdb
+F:\Test\Web_AdminLTE\Fonour.Utility\obj\Debug\netcoreapp2.2\Fonour.Utility.dll
+F:\Test\Web_AdminLTE\Fonour.Utility\obj\Debug\netcoreapp2.2\Fonour.Utility.pdb
+F:\Test\Web_AdminLTE\Fonour.Utility\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+F:\Test\Web_AdminLTE\Fonour.Utility\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+F:\Test\Web_AdminLTE\Fonour.Utility\obj\Debug\netcoreapp2.2\Fonour.Utility.csproj.CopyComplete

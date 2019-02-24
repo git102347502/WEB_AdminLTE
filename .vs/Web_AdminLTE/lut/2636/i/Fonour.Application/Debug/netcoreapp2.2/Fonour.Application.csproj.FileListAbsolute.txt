@@ -1,0 +1,8 @@
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\b\Fonour.Application\Debug\netcoreapp2.2\Fonour.Application.deps.json
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\b\Fonour.Application\Debug\netcoreapp2.2\Fonour.Application.dll
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\i\Fonour.Application\Debug\netcoreapp2.2\Fonour.Application.csproj.CoreCompileInputs.cache
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\i\Fonour.Application\Debug\netcoreapp2.2\Fonour.Application.AssemblyInfoInputs.cache
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\i\Fonour.Application\Debug\netcoreapp2.2\Fonour.Application.AssemblyInfo.cs
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\i\Fonour.Application\Debug\netcoreapp2.2\Fonour.Application.csproj.CopyComplete
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\i\Fonour.Application\Debug\netcoreapp2.2\Fonour.Application.dll
+F:\Test\Web_AdminLTE\.vs\Web_AdminLTE\lut\0\i\Fonour.Application\Debug\netcoreapp2.2\Fonour.Application.csprojAssemblyReference.cache
